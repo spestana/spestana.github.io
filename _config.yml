@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 permalink: /:categories/:year/:month/:title/
 title: Steven Pestana
-logo: \assets\images\me.jpg
+logo: /assets/images/me.jpg
 description: 
