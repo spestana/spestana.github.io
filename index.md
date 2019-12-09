@@ -9,10 +9,14 @@ Steven Pestana is a PhD student in the [Mountain Hydrology Research Group](https
 ## AGU 2019 Poster
 
 **Multi-scale Comparison of Wintertime Mountain Surface Temperatures from GOES ABI, MODIS, ASTER, and Airborne Thermal Infrared Observations**
+
 Session: Remote Sensing of Land, Ocean, and Atmosphere from the New Generation of Geostationary Satellites III Posters
 
-![AGU2019](/assets/images/agu2019poster_small.jpg)
 [Click here to download a PDF copy of the poster](/assets/images/agu2019poster.pdf)
+
+![AGU2019](/assets/images/agu2019poster_small.jpg)
+
+
 
 ![GOESviewAnimation](/assets/images/goes_view_animation.gif)
 
