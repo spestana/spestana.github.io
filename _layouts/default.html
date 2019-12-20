@@ -45,21 +45,21 @@
 		<p class="view"><small>Email: <a href="mailto:spestana@uw.edu">spestana@uw.edu</small></a></p>
 		<p class="view"><small>GitHub: <a href="https://github.com/spestana/">spestana</small></a></p>
 		<p class="view"><small>Twitter: <a href="https://twitter.com/stevenpest">@stevenpest</small></a></p>
-		<p class="view"><small><a href="https://www.linkedin.com/in/spestana/"></small>LinkedIn</a></p>		
+		<p class="view"><small><a href="https://www.linkedin.com/in/spestana/">LinkedIn</small></a></p>		
 		<p class="view"><small><a href="https://depts.washington.edu/mtnhydr/">Mountain Hydrology Research Group</small></a></p>
 		<p class="view"><small><a href="https://www.ce.washington.edu/">UW Civil & Environmental Engineering</small></a></p>
 
 		
 		<hr>
 		
-		{% for post in site.posts %}
-		<p class="view"><small>- <a href="{{ post.url }}">{{ post.title }}</a></small></p>
-		{% endfor %}
-		
       </header>
       <section>
 
       {{ content }}
+	  
+	  {% for post in site.posts %}
+		<p class="view"><small>- <a href="{{ post.url }}">{{ post.title }}</a></small></p>
+		{% endfor %}
 	  
       </section>
       <footer>
