@@ -52,4 +52,3 @@ Thanks to the folks who invited me out to help with this project!
 Seen from the drone’s point of view: [Annie Ockelford](https://research.brighton.ac.uk/en/persons/annie-ockelford) and her student Chloe, Joanna Curran, Jacob Morgan, and myself.
 
 
-* * *

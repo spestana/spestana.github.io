@@ -25,6 +25,5 @@ Setting up GNSS base station and rover stations:
 
 ![EastonGNSS](/assets/images/easton_gnss.jpg)
 
-* * *
 
 
