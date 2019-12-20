@@ -16,13 +16,13 @@ Only much more recently have the calls for restoration and rehabilitation of the
 
 The Nooksack river drains the western slopes of the Cascade Range in northern Washington, including Kulshan, Mount Baker, an active stratovolcano. Its south fork meanders through a valley gridded by agricultural fields before the confluence with the main stem of the river near the [Nooksack Indian Reservation](https://nooksacktribe.org/).
 
-![noocksack_map](/assets/images/noocksack_map.jpg)
+![nooksack_map](/assets/images/nooksack_map.jpg)
 
 The south fork’s meanders have become relatively fixed between farm plots, held in place by bank reinforcement that in turn can increase flow velocities. The clearing of vegetation from its banks as well as its own tributaries in the logged foothills have also limited the amount of “woody debris” that the river carries downstream. These two factors (among many others) are detrimental to the local salmon population that return to the river from the Pacific Ocean to spawn. Low flow velocities through the meanders allow the fish to make their way further upstream against the current. Woody debris within the stream channel can slow flow velocities so that sand and gravel become deposited on the riverbed, creating braided channels and salmon spawning habitat.
 
 A project to re-introduce the function of woody debris and gravel bars has been enacted on the south fork of the Nooksack river. These “engineered logjams” (ELJs) consist of tree trunks driven into the soil and tied together within the river channel. It is hoped that these will help catch what natural woody debris comes down the stream, and germinate the structures required to slow flow velocity and form gravel and sand bars.
 
-![noocksack_elj](/assets/images/noocksack_elj.jpg)
+![nooksack_eljs](/assets/images/nooksack_eljs.jpg)
 
 To assess the performance of the ELJs, surveys were performed to map the shape of the river bed. Lidar surveys (light detection and ranging) from a prior year could be compared against a new survey to determine how the land surface may have changed with the introduction of these structures . Acoustic Doppler Current Profiler (ADCP) provided bathymetric measurements below the current water level, but instead of using lidar again to map the above-water river bed surfaces (at low flows, much of the river channel is exposed above water), structure from motion (SfM) using images from a small drone were used.
 
