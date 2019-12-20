@@ -16,6 +16,6 @@ Sample images used to create the above point cloud:
 
 ![toydrone1](/assets/images/toydrone1.jpg)
 ![toydrone2](/assets/images/toydrone2.jpg)
-![toydrone2](/assets/images/toydrone2.jpg)
+![toydrone2](/assets/images/toydrone3.jpg)
 
 * * *
