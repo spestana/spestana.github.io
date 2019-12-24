@@ -4,7 +4,7 @@ title:  "CUAHSI Snow School"
 ---
 
 
-# Snow School
+# CUAHSI Snow School
 *Jan. 2018*
 
 ![snow pit observations](/assets/images/snowschool1.JPG "snow pit observations")
