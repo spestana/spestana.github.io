@@ -10,8 +10,8 @@ title:  "Waterhackweek 2020"
 ## Tutorials: Gridded data & statistics
 
 I gave two tutorials at Waterhackweek, one which covered working with gridded data using [xarray](https://xarray.pydata.org/en/stable/), the other introducing some statistics workflows with [scipy](https://www.scipy.org/) functions:
- * **Waterdata** - Access and analyze raster and multi-dimensional gridded data: [GitHub](https://github.com/waterhackweek/waterdata) | [YouTube](https://youtu.be/37HdGuL9m-s)
- * **Waterstats** - Statistics with water data, hypothesis testing, linear regression: [GitHub](https://github.com/waterhackweek/waterstats) | [YouTube](https://youtu.be/a5uCj1mX7Qs)
+ * **Waterdata** - Access and analyze raster and multi-dimensional gridded data: [GitHub](https://github.com/waterhackweek/waterdata) , [YouTube](https://youtu.be/37HdGuL9m-s)
+ * **Waterstats** - Statistics with water data, hypothesis testing, linear regression: [GitHub](https://github.com/waterhackweek/waterstats) , [YouTube](https://youtu.be/a5uCj1mX7Qs)
 
 ## Project: Fire & Water
 
