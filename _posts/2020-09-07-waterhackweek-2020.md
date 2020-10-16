@@ -28,3 +28,5 @@ We also learned how to use the [Google Earth Engine python API](https://develope
 ![timeseries plots of MODIS NDVI and false color](/assets/images/modis-clearlake.jpg)
 
 [**View the hackathon project files on GitHub**](https://github.com/waterhackweek/whw2020_firewater)
+
+[Read more about Waterhackweek here](https://www.ce.washington.edu/news/article/2020-09-17/waterhackweek-applying-data-science-water-challenges)
