@@ -4,7 +4,7 @@ title:  "Teaching Data Analysis in Water Science (Fall 2020)"
 ---
 
 
-# Data Analysis in Water Science, Fall 2020
+# Teaching Data Analysis in Water Science (Fall 2020)
 *Jan. 2021*
 
 In the fall 2020 quarter, I taught the course “Data Analysis in Water Sciences” in the Civil and Environmental Engineering (CEE) Department here at UW. This is a joint undergraduate and graduate course that is taken by senior undergraduate students, professional Masters students, and research-track Masters and PhD students (typically in the [Hydrology & Hydrodynamics]( https://www.ce.washington.edu/research/areas/water) or [Environmental Engineering]( https://www.ce.washington.edu/research/areas/environmental) research areas). This course is also part of the new CEE [Data Science Option](https://www.ce.washington.edu/current/phd/data-science-option) curriculum in partnership with the UW [eScience Institute]( https://escience.washington.edu/uw-data-science-options/).
