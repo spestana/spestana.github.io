@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Analysis in Water Science, Fall 2020"
+title:  "Teaching Data Analysis in Water Science (Fall 2020)"
 ---
 
 
