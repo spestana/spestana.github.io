@@ -5,7 +5,7 @@ title:  "Warming (climate) stripes in python with ulmo"
 
 
 # Warming (climate) stripes in python with ulmo
-*June 2020*
+*June 2021*
 
 [Warming (or climate) stripe](https://en.wikipedia.org/wiki/Warming_stripes) figures are a striking way to visualize climate change and its signature in temperature trends, whether global or local.
 
