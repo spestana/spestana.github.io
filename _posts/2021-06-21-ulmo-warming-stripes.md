@@ -21,4 +21,4 @@ The [repository here](https://github.com/spestana/ulmo-warming-stripes) contains
 
 ![warming stripes for Seattle, WA](https://raw.githubusercontent.com/spestana/ulmo-warming-stripes/main/warming-stripes-seattle.jpg "warming stripes seattle")
 
-Also see [this web app version](https://share.streamlit.io/dhaitz/ulmo-warming-stripes/main/app.py) by D[ominik Haitz](https://dhaitz.github.io/).
+Also see [this web app version](https://share.streamlit.io/dhaitz/ulmo-warming-stripes/main/app.py) by [Dominik Haitz](https://dhaitz.github.io/).
