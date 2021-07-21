@@ -11,6 +11,8 @@ An invitation to challenge predominant spatial orientations and conventions, and
 
 This [twitter bot](https://twitter.com/dscovr_ebooks) displays animations of south-up oriented Earth images from the DSCOVR Earth Polychromatic Camera. Forked from [Russ Garrett's original DSCOVR EPIC bot](https://russ.garrett.co.uk/bots/dscovr_epic/), [@dscovr_epic](https://twitter.com/dscovr_epic)
 
+[View this project on github here](https://github.com/spestana/dscovr-epic-south-up)
+
 ![south up earth animation](/assets/images/dscovr_epic_sout_up_animation.gif)
 
 References:
