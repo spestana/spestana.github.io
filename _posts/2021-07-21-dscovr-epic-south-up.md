@@ -7,9 +7,7 @@ title:  "DSCOVR EPIC South-Up"
 # DSCOVR EPIC South-Up
 *July 2021*
 
-An invitation to challenge predominant spatial orientations and conventions, and in turn how we perceive the world.
-
-This [twitter bot](https://twitter.com/dscovr_ebooks) displays animations of south-up oriented Earth images from the DSCOVR Earth Polychromatic Camera. Forked from [Russ Garrett's original DSCOVR EPIC bot](https://russ.garrett.co.uk/bots/dscovr_epic/), [@dscovr_epic](https://twitter.com/dscovr_epic)
+An invitation to see the world differently. This [twitter bot](https://twitter.com/dscovr_ebooks) displays animations of south-up oriented Earth images from the [DSCOVR Earth Polychromatic Camera]((https://epic.gsfc.nasa.gov/)). Forked from [Russ Garrett's original DSCOVR EPIC bot](https://russ.garrett.co.uk/bots/dscovr_epic/), [@dscovr_epic](https://twitter.com/dscovr_epic)
 
 [View this project on github here](https://github.com/spestana/dscovr-epic-south-up)
 
