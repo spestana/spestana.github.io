@@ -68,15 +68,15 @@ Zajicek, B., , Villalobos, M., **Pestana, S.** (presenting author) 2016.  "Groun
 
 ## Field Experience
 
-[SnowEx 2020, Intensive Observation Period](https://spestana.github.io/2020/02/snowex-2020/). Grand Mesa, CO.
+[SnowEx 2020, Intensive Observation Period](https://spestana.github.io/2020/02/snowex-2020/), 2020. Grand Mesa, CO.
 
 "Detecting Drought From Space", 2019. Los Alamos, NM.
 
-[Easton Glacier Survey, 2018](https://spestana.github.io/2018/11/sfm-easton-glacier/). Kulshan (Mount Baker), WA.
+[Easton Glacier Survey](https://spestana.github.io/2018/11/sfm-easton-glacier/), 2018. Kulshan (Mount Baker), WA.
 
-[Nooksack River Survey, 2018](https://spestana.github.io/2018/06/sfm-river-channel/). Whatcom County, WA.
+[Nooksack River Survey](https://spestana.github.io/2018/06/sfm-river-channel/), 2018. Whatcom County, WA.
 
-[CUAHSI Snow, School 2018](https://spestana.github.io/2018/01/snow-school/). Fraser Experimental Forest, CO.
+[CUAHSI Snow, School](https://spestana.github.io/2018/01/snow-school/), 2018. Fraser Experimental Forest, CO.
 
 ## Outreach & Service
 
