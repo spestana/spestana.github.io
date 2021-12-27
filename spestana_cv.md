@@ -74,6 +74,6 @@ Zajicek, B., , Villalobos, M., **Pestana, S.** (presenting author) 2016.  "Groun
 
 ## Outreach & Service
 
-Naturalist volunteer with the *Seattle Aquarium: Cedar River Salmon Journey Program* 2016-2021
+Naturalist volunteer with the *[Seattle Aquarium: Cedar River Salmon Journey Program](https://www.seattleaquarium.org/salmon-journey)* 2016-2021
 
 Group coordinator for *University of Washington: Engineering Discovery Days* 2018
