@@ -30,3 +30,10 @@ We also learned how to use the [Google Earth Engine python API](https://develope
 [**View the hackathon project files on GitHub**](https://github.com/waterhackweek/whw2020_firewater)
 
 [Read more about Waterhackweek here](https://www.ce.washington.edu/news/article/2020-09-17/waterhackweek-applying-data-science-water-challenges)
+
+---
+
+Update: In the summer of 2021, about a year after the hackweek, I was able to visit Clear Lake in person!
+
+![Steven at Clear Lake](/assets/images/stevenclearlake.jpg)
+
