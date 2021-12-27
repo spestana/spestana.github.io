@@ -1,15 +1,9 @@
-(*updated 12/2021*)
+**Curriculum Vitae** (*updated 12/2021*)
 
 ## Steven Pestana
-PhD Candidate  
+PhD Candidate. Department of Civil and Environmental Engineering. University of Washington, Seattle
 
-Department of Civil and Environmental Engineering  
-
-University of Washington, Seattle   
-
-email: spestana@uw.edu  
-
-web: https://spestana.github.io/  
+[spestana@uw.edu](mailto:spestana@uw.edu); [spestana.github.io](https://spestana.github.io/)
 
 
 ## Education
