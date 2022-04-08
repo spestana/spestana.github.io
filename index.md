@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I'm Steven Pestana (he/him), a PhD candidate in the [Mountain Hydrology Research Group](https://depts.washington.edu/mtnhydr/) at the University of Washington in Seattle. My research interests include applying the unique perspective provided by remote sensing (whether from small UAS, aircraft, or satellites) to improve our understanding of mountain hydrology, seasonal snow, their patterns, and how they're changing. 
+I'm Steven Pestana (he/him), a PhD candidate in the [Mountain Hydrology Research Group](https://depts.washington.edu/mtnhydr/) at the University of Washington in Seattle. My research interests include applying the unique perspective provided by remote sensing (whether from small UAS, aircraft, or satellites) to improve our understanding of mountain hydrology, seasonal snow, their patterns, and how they're changing. Read more about my work with infrared remote sensing of seasonal snow [here](https://depts.washington.edu/mtnhydr/Pages/Research%20Profiles/SnowIR.html).
 
 See the below links for information about past and current projects, activities, and blog posts:
 
