@@ -10,6 +10,7 @@ See the below links for information about past and current projects, activities,
 
 <p class="view">- <a href="https://spestana.github.io/sensor-bands/">Satellite Sensor Bands in the Visible to Infrared</a></p>
 <p class="view">- <a href="https://spestana.github.io/ecostress-utils/">Notes on predicting ECOSTRESS overpass timing</a></p>
+<p class="view">- <a href="https://www.ribbitnetwork.org/">Ribbit Network - open-source, low-cost CO2 sensors</a> (<a href="https://www.hackster.io/stevenpest/seattleribbitnetwork-e550e2">read more here</a>)</p>
 <p class="view">- <a href="https://spestana.github.io/atmos-boundary-layer/">Learning turbpy: sensible heat flux over snow</a></p>
 <p class="view">- <a href="https://spestana.github.io/toy-forest-model/">Toy forest model</a></p>
 <p class="view">- <a href="https://spestana.github.io/how-to-graduate/">How to Graduate: UW CEE grad school</a></p>
