@@ -16,3 +16,4 @@ See the below links for information about past and current projects, activities,
 <p class="view">- <a href="https://spestana.github.io/how-to-graduate/">How to Graduate: UW CEE grad school</a></p>
 <p class="view">- <a href="https://spestana.github.io/richards-valley-trail/">Richards Valley Trail</a></p>
 <p class="view">- <a href="https://spestana.github.io/urban-heat-hack/">EarthHacks: remote sensing urban heat islands</a></p>
+<p class="view">- <a href="[https://spestana.github.io/urban-heat-hack/](https://gist.github.com/spestana/f631b033f0b5f591edbf5313be82db7e)">Steps for setting up a geospatial computing workstation on a Windows PC.</a></p>
