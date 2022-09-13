@@ -66,7 +66,7 @@ CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2018. Department of Ci
 
 ## Publications
 
-**Pestana, S.** & Lundquist, J. D. (2022*). Evaluating GOES-16 ABI surface temperature  observation biases over the central Sierra Nevada of California. *\*In review* at Remote Sensing of Environment.
+**Pestana, S.** & Lundquist, J. D. (2022*). Evaluating GOES-16 ABI surface brightness temperature observation biases over the central Sierra Nevada of California. Remote Sensing of Environment, 281, 113221. doi:[10.1016/j.rse.2022.113221](https://doi.org/10.1016/j.rse.2022.113221)
 
 **Pestana, S.**, Chickadel, C. C., Harpold, A., Kostadinov, T. S., Pai, H., Tyler, S., Webster, C., & Lundquist, J. D. (2019). Bias correction of airborne thermal infrared observations over forests using melting snow. Water Resources Research, 55(12), 11331-11343. doi:[10.1029/2019WR025699](https://doi.org/10.1029/2019WR025699)
 
@@ -92,9 +92,9 @@ Zajicek, B., , Villalobos, M., **Pestana, S.** (presenting author) 2016.  "Groun
 
 **Pestana, S.**, S. Hoban, S., 2015. "Investigating Dusty Plasma of Cometary Coma With NASA Stardust Data." Lunar and Planetary Science Conference. The Woodlands, TX.
 
-## Outreach & Service
+## Outreach & Volunteering
 
-"Master Naturalist" volunteer with the *[Parks Department of Bellevue, WA](https://bellevuewa.gov/city-government/departments/parks/nature-and-environment/visitor-centers-environmental-programs/environmental-stewardship-volunteer-opportunities/master-naturalist)*: Assisting with restoration work, invasive plant removal, educational programs, hikes, and canoe tours though the Bellevue "Master Naturalist" program. 2022-present
+Naturalist volunteer with the *[Parks Department of Bellevue, WA](https://bellevuewa.gov/city-government/departments/parks/nature-and-environment/visitor-centers-environmental-programs/environmental-stewardship-volunteer-opportunities/master-naturalist)*: Assisting with environmental restoration work, invasive plant removal, educational programs, hikes, and canoe tours. 2022-present
 
 Naturalist volunteer with the annual *[Seattle Aquarium: Cedar River Salmon Journey Program](https://www.seattleaquarium.org/salmon-journey)*: Communicating to the public the science of salmon migration, riparian and coastal ecosystems, and watershed hydrology. 2016-present
 
