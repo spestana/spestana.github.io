@@ -66,7 +66,7 @@ CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2018. Department of Ci
 
 ## Publications
 
-**Pestana, S.** & Lundquist, J. D. (2022*). Evaluating GOES-16 ABI surface brightness temperature observation biases over the central Sierra Nevada of California. Remote Sensing of Environment, 281, 113221. doi:[10.1016/j.rse.2022.113221](https://doi.org/10.1016/j.rse.2022.113221)
+**Pestana, S.** & Lundquist, J. D. (2022). Evaluating GOES-16 ABI surface brightness temperature observation biases over the central Sierra Nevada of California. Remote Sensing of Environment, 281, 113221. doi:[10.1016/j.rse.2022.113221](https://doi.org/10.1016/j.rse.2022.113221)
 
 **Pestana, S.**, Chickadel, C. C., Harpold, A., Kostadinov, T. S., Pai, H., Tyler, S., Webster, C., & Lundquist, J. D. (2019). Bias correction of airborne thermal infrared observations over forests using melting snow. Water Resources Research, 55(12), 11331-11343. doi:[10.1029/2019WR025699](https://doi.org/10.1029/2019WR025699)
 
