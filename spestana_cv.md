@@ -1,4 +1,4 @@
-**Curriculum Vitae** (*updated 6/2022*)
+**Curriculum Vitae** (*updated 11/2022*)
 
 ## Steven Pestana
 
@@ -44,13 +44,15 @@ CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2018. Department of Ci
 
 *As Workshop/Hackweek Instructor:*  
 
+[SnowEx Hackweek 2022](https://github.com/snowex-hackweek/model-eval): Project helper. July 2022. University of Washington. Seattle, WA
+
 [SnowEx Hackweek 2021](https://spestana.github.io/2021/07/snowex-hackweek-2021/): Tutorial instructor & project "data science" helper. July 2021. Online.
 
 [Urban Heat Island Hackathon](https://earthhacksorg.medium.com/event-spotlight-urban-heat-island-hackathon-4d69b311af31): Mentor/helper. October 2020. Online.
 
 [Waterhackweek 2020](https://spestana.github.io/2020/09/waterhackweek-2020/): Student lead, tutorial instructor, & project "data science" helper. September 2020. Online.
 
-[Waterhackweek 2019](https://spestana.github.io/2019/03/waterhackweek-2019/): Project "data science" helper. March 2019. University of Washington.
+[Waterhackweek 2019](https://spestana.github.io/2019/03/waterhackweek-2019/): Project "data science" helper. March 2019. University of Washington. Seattle, WA
 
 ## Fieldwork Experience
 
