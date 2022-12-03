@@ -1,4 +1,8 @@
-**Curriculum Vitae** (*updated 11/2022*)
+---
+layout: page
+---
+
+**Curriculum Vitae** (*updated 12/2022*)
 
 ## Steven Pestana
 
