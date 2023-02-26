@@ -4,7 +4,11 @@ layout: default
 
 ## About Me
 
-I'm Steven Pestana (he/him), a PhD candidate in the [Mountain Hydrology Research Group](https://depts.washington.edu/mtnhydr/) at the University of Washington in Seattle. My research interests include applying the unique perspective provided by remote sensing (whether from small UAS, aircraft, or satellites) to improve our understanding of mountain hydrology, seasonal snow, their patterns, and how they're changing. Read more about my work with infrared remote sensing of seasonal snow [here](https://depts.washington.edu/mtnhydr/Pages/Research%20Profiles/SnowIR.html).
+I'm Steven Pestana (he/him), a Civil and Environmental Engineering PhD candidate in the [Mountain Hydrology Research Group](https://depts.washington.edu/mtnhydr/) at the University of Washington, Seattle. 
+
+My research is focused on developing new methods for analyzing infrared and optical remote sensing observations, with applications for mountain hydrology, forests, and seasonal snow. I am interested in how the unique perspectives provided by remote sensing (whether from small UAS, aircraft, or satellites) can improve our understanding of hydrology and ecology, how they’re changing with the climate, and how we can adapt to those changes. Read more details about my work with infrared remote sensing of seasonal snow with NOAA’s Geostationary Operational Environmental Satellites (GOES) [here](https://depts.washington.edu/mtnhydr/Pages/Research%20Profiles/SnowIR.html).
+
+I am also interested in science communications and teaching, whether in the classroom or outdoors, and the development of open source software and hardware. While at UW, I’ve enjoyed the opportunities to teach the [Data Analysis in Water Science](https://spestana.github.io/2021/01/data-analysis-class-2020/) course, as well as participate in and lead tutorials for eScience Institute "hackweeks". These experiences have sparked an interest in critically examining and improving my own teaching and learning methods.
 
 See the below links for information about past and current projects, activities, and blog posts:
 
