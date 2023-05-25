@@ -21,6 +21,12 @@ PhD Candidate. Department of Civil and Environmental Engineering. University of 
 
 **BS 2015**, Geology. California Polytechnic University, Pomona. *Pomona, CA*
 
+## Awards & Honors
+
+2021 College of Engineering [Student Award for Teaching](https://spestana.github.io/2021/01/data-analysis-class-2020/), University of Washington, Seattle
+2020 NASA FINESST grant #80NSSC20K1610
+2015 Ernest Prete Jr. Geological Sciences Award, California Polytechnic University, Pomona
+
 ## Research and Professional Experience
 
 Graduate Research Assistant. University of Washington. Seattle, WA. 2017-present
@@ -98,9 +104,13 @@ Zajicek, B., , Villalobos, M., **Pestana, S.** (presenting author) 2016.  "Groun
 
 **Pestana, S.**, S. Hoban, S., 2015. "Investigating Dusty Plasma of Cometary Coma With NASA Stardust Data." Lunar and Planetary Science Conference. The Woodlands, TX.
 
-## Outreach & Volunteering
+## Service & Volunteering
+
+Graduate Student Advisory Board member. *[UW Department of Civil and Environmental Engineering](https://www.ce.washington.edu/current/student-advisory-board#GSAB)*: Represented graduate student interests in faculty meetings, helped oganize department events, and served on the department's Undergraduate Education Committee. 2022-present
 
 Naturalist volunteer with the *[Parks Department of Bellevue, WA](https://bellevuewa.gov/city-government/departments/parks/nature-and-environment/visitor-centers-environmental-programs/environmental-stewardship-volunteer-opportunities/master-naturalist)*: Assisting with environmental restoration work, invasive plant removal, educational programs, hikes, and canoe tours. 2022-present
+
+Core team member *[Ribbit Network](https://www.ribbitnetwork.org/)*: Building an open-source greenhouse gas sensor network for citizen scientists, educators, and researchers ([ribbitnetwork.org](https://www.ribbitnetwork.org/)). 2021-present
 
 Naturalist volunteer with the annual *[Seattle Aquarium: Cedar River Salmon Journey Program](https://www.seattleaquarium.org/salmon-journey)*: Communicating to the public the science of salmon migration, riparian and coastal ecosystems, and watershed hydrology. 2016-present
 
