@@ -2,7 +2,7 @@
 layout: page
 ---
 
-**Curriculum Vitae** (*updated 12/2022*)
+**Curriculum Vitae** (*updated 5/2023*)
 
 ## Steven Pestana
 
