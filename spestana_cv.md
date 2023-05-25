@@ -23,9 +23,9 @@ PhD Candidate. Department of Civil and Environmental Engineering. University of 
 
 ## Awards & Honors
 
-2021 College of Engineering [Student Award for Teaching](https://spestana.github.io/2021/01/data-analysis-class-2020/), University of Washington, Seattle
-2020 NASA FINESST grant #80NSSC20K1610
-2015 Ernest Prete Jr. Geological Sciences Award, California Polytechnic University, Pomona
+- 2021 College of Engineering [Student Award for Teaching](https://spestana.github.io/2021/01/data-analysis-class-2020/), University of Washington, Seattle
+- 2020 NASA FINESST grant #80NSSC20K1610
+- 2015 Ernest Prete Jr. Geological Sciences Award, California Polytechnic University, Pomona
 
 ## Research and Professional Experience
 
