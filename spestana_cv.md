@@ -110,7 +110,7 @@ Zajicek, B., , Villalobos, M., **Pestana, S.** (presenting author) 2016.  "Groun
 
 ## Service & Volunteering
 
-Graduate Student Advisory Board member. *[UW Department of Civil and Environmental Engineering](https://www.ce.washington.edu/current/student-advisory-board#GSAB)*: Represented graduate student interests in faculty meetings, helped oganize department events, and served on the department's Undergraduate Education Committee. 2022-present
+Graduate Student Advisory Board member. *[UW Department of Civil and Environmental Engineering](https://www.ce.washington.edu/current/student-advisory-board#GSAB)*: Represented graduate student interests in faculty meetings, helped organize department events, and served on the department's Undergraduate Education Committee. 2022-present
 
 Naturalist volunteer with the *[Parks Department of Bellevue, WA](https://bellevuewa.gov/city-government/departments/parks/nature-and-environment/visitor-centers-environmental-programs/environmental-stewardship-volunteer-opportunities/master-naturalist)*: Assisting with environmental restoration work, invasive plant removal, educational programs, hikes, and canoe tours. 2022-present
 
