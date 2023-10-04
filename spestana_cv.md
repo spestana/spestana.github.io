@@ -2,20 +2,20 @@
 layout: page
 ---
 
-**Curriculum Vitae** (*updated 5/2023*)
+**Curriculum Vitae** (*updated 10/2023*)
 
 ## Steven Pestana
 
 Pronouns: he/him/his
 
-PhD Candidate. Department of Civil and Environmental Engineering. University of Washington, Seattle
+Research Scientist and Instructor. Department of Civil and Environmental Engineering. University of Washington, Seattle
 
 [spestana@uw.edu](mailto:spestana@uw.edu); [spestana.github.io](https://spestana.github.io/)
 
 
 ## Education
 
-**PhD 2023 (expected)**, Civil & Environmental Engineering. University of Washington, *Seattle, WA*
+**PhD 2023**, Civil & Environmental Engineering. University of Washington, *Seattle, WA*
 
 **MS 2019**, Civil & Environmental Engineering. University of Washington, *Seattle, WA*
 
@@ -29,7 +29,9 @@ PhD Candidate. Department of Civil and Environmental Engineering. University of 
 
 ## Research and Professional Experience
 
-Graduate Research Assistant. University of Washington. Seattle, WA. 2017-present
+Research Scientist. University of Washington. Seattle, WA. 2023-present
+
+Graduate Research Assistant. University of Washington. Seattle, WA. 2017-2023
 
 Technical Operations Assistant. Tableau Software. Seattle, WA. 2016-2017
 
@@ -44,6 +46,8 @@ Technical Operations Assistant. Tableau Software. Seattle, WA. 2016-2017
 
 *As Instructor:* 
 
+CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2023. Department of Civil and Environmental Engineering, University of Washington.
+
 [CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2020.](https://spestana.github.io/2021/01/data-analysis-class-2020/) Department of Civil and Environmental Engineering, University of Washington.
 
 *As Teaching Assistant:* 
@@ -52,7 +56,9 @@ CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2019. Department of Ci
 
 CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2018. Department of Civil and Environmental Engineering, University of Washington.
 
-*As Workshop/Hackweek Instructor:*  
+*As Workshop Instructor/Organizer:*
+
+[GeoSMART Hackweek 2023](https://geosmart.hackweek.io/). October 2023. University of Washington. Seattle, WA
 
 [SnowEx Hackweek 2022](https://github.com/snowex-hackweek/model-eval). July 2022. University of Washington. Seattle, WA
 
@@ -66,6 +72,8 @@ CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2018. Department of Ci
 
 ## Fieldwork Experience
 
+[Cle Elumn Ridge Snow/Forest Observations](https://www.ce.washington.edu/news/article/2023-08-07/balancing-fire-and-ice), 2022. Cle Elum, WA.
+
 [SnowEx 2020, Intensive Observation Period](https://spestana.github.io/2020/02/snowex-2020/), 2020. Grand Mesa, CO.
 
 "Detecting Drought From Space", 2019. Los Alamos, NM.
@@ -78,27 +86,24 @@ CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2018. Department of Ci
 
 ## Publications
 
-**Pestana, S.**, Chickadel, C. C., Lundquist, J. D. (*paper in prep*). Snow and forest temperature observations during the SnowEx 2020 Grand Mesa field campaign, and thermal infrared shadow-hiding in GOES-R ABI imagery. *paper in prep*
+**Pestana, S.**, Chickadel, C. C., Lundquist, J. D. (*in review*). Thermal infrared shadow-hiding in GOES-R ABI imagery: snow and forest temperature observations from the SnowEx 2020 Grand Mesa field campaign. *in review* at The Cryosphere. Preprint doi:[10.5194/egusphere-2023-1784](https://doi.org/10.5194/egusphere-2023-1784)
 
-**Pestana, S.**, Bair, E. H., Dozier, J., Lundquist, J. D. (2023 *in review*). Observations of diurnal midwave infrared anisotropy over snow and forests with GOES-R ABI. 2023 IEEE International Geoscience and Remote Sensing Symposium (IGARSS). *in review*
+**Pestana, S.**, Bair, E. H., Dozier, J., Lundquist, J. D. (2023). Observations of diurnal midwave infrared anisotropy over snow and forests with GOES-R ABI. 2023 IEEE International Geoscience and Remote Sensing Symposium (IGARSS). (conference paper)
 
 **Pestana, S.** & Lundquist, J. D. (2022). Evaluating GOES-16 ABI surface brightness temperature observation biases over the central Sierra Nevada of California. Remote Sensing of Environment, 281, 113221. doi:[10.1016/j.rse.2022.113221](https://doi.org/10.1016/j.rse.2022.113221)
 
 **Pestana, S.**, Chickadel, C. C., Harpold, A., Kostadinov, T. S., Pai, H., Tyler, S., Webster, C., & Lundquist, J. D. (2019). Bias correction of airborne thermal infrared observations over forests using melting snow. Water Resources Research, 55(12), 11331-11343. doi:[10.1029/2019WR025699](https://doi.org/10.1029/2019WR025699)
 
 ## Presentations
+\+ Invited talk, * Oral presentation
 
-*Invited Presentations:*
+\* **Pestana, S.**, Bair, E. H., Dozier, J., Lundquist, J. D. 2023. “Observations of diurnal midwave infrared anisotropy over snow and forests with GOES-R ABI”. IEEE International Geoscience and Remote Sensing Symposium (IGARSS). Pasadena, CA.
 
-**Pestana, S.**, Chickadel., C.C., Lundquist, J.D. 2021. "High temporal resolution GOES-16 and -17 observations of snow-surface temperature during the SnowEx 2020 field campaign." American Meteorological Society, Conference on Hydrology. Online.
++* **Pestana, S.**, Chickadel., C.C., Lundquist, J.D. 2021. "High temporal resolution GOES-16 and -17 observations of snow-surface temperature during the SnowEx 2020 field campaign." American Meteorological Society, Conference on Hydrology. Online.
 
-*Conference Presentations:*
+\* **Pestana, S.**, Lundquist, J.D. 2021. "Orthorectifying GOES ABI imagery for mountain snow temperature observations." American Geophysical Union, Fall Meeting. Online & New Orleans, LA.
 
-**Pestana, S.**, Lundquist, J.D. 2021. "Orthorectifying GOES ABI imagery for mountain snow temperature observations." American Geophysical Union, Fall Meeting. Online & New Orleans, LA.
-
-**Pestana, S.**, Lundquist, J., Chickadel, C., Webster, C., Harpold, A., Tyler, S., Kostadinov, T. 2019. "Airborne Remote Sensing Surface Temperatures of Forests and Melting Snow at Different Spatial Scales." International Union of Geodesy and Geophysics. Montreal, Canada.
-
-*Poster Presentations:*
+\* **Pestana, S.**, Lundquist, J., Chickadel, C., Webster, C., Harpold, A., Tyler, S., Kostadinov, T. 2019. "Airborne Remote Sensing Surface Temperatures of Forests and Melting Snow at Different Spatial Scales." International Union of Geodesy and Geophysics. Montreal, Canada.
 
 **Pestana, S.**, Lundquist, J.D. 2019. "Multi-scale Comparison of Wintertime Mountain Surface Temperatures from GOES ABI, MODIS, ASTER, and Airborne Thermal Infrared Observations." American Geophysical Union, Fall Meeting. San Francisco, CA.
 
@@ -110,12 +115,12 @@ Zajicek, B., , Villalobos, M., **Pestana, S.** (presenting author) 2016.  "Groun
 
 ## Service & Volunteering
 
-Graduate Student Advisory Board member. *[UW Department of Civil and Environmental Engineering](https://www.ce.washington.edu/current/student-advisory-board#GSAB)*: Represented graduate student interests in faculty meetings, helped organize department events, and served on the department's Undergraduate Education Committee. 2022-present
-
 Naturalist volunteer with the *[Parks Department of Bellevue, WA](https://bellevuewa.gov/city-government/departments/parks/nature-and-environment/visitor-centers-environmental-programs/environmental-stewardship-volunteer-opportunities/master-naturalist)*: Assisting with environmental restoration work, invasive plant removal, educational programs, hikes, and canoe tours. 2022-present
 
 Core team member *[Ribbit Network](https://www.ribbitnetwork.org/)*: Building an open-source greenhouse gas sensor network for citizen scientists, educators, and researchers ([ribbitnetwork.org](https://www.ribbitnetwork.org/)). 2021-present
 
 Naturalist volunteer with the annual *[Seattle Aquarium: Cedar River Salmon Journey Program](https://www.seattleaquarium.org/salmon-journey)*: Communicating to the public the science of salmon migration, riparian and coastal ecosystems, and watershed hydrology. 2016-present
+
+Graduate Student Advisory Board member. *[UW Department of Civil and Environmental Engineering](https://www.ce.washington.edu/current/student-advisory-board#GSAB)*: Represented graduate student interests in faculty meetings, helped organize department events, and served on the department's Undergraduate Education Committee. 2022-2023
 
 Group coordinator for *University of Washington: Engineering Discovery Days*: Planned and managed interactive snow science demonstrations for visiting middle school students. 2018
