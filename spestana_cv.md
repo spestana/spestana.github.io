@@ -53,6 +53,8 @@ CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2018. Department of Ci
 
 *As Workshop Instructor/Organizer:*
 
+[NASA Earth Sciences & UW Hackweek 2024](https://2024.hackweek.io/). August 2024. University of Washington. Seattle, WA
+
 [GeoSMART Hackweek 2023](https://geosmart.hackweek.io/). October 2023. University of Washington. Seattle, WA
 
 [SnowEx Hackweek 2022](https://github.com/snowex-hackweek/model-eval). July 2022. University of Washington. Seattle, WA
@@ -67,7 +69,7 @@ CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2018. Department of Ci
 
 ## Fieldwork Experience
 
-[Cle Elumn Ridge Snow/Forest Observations](https://www.ce.washington.edu/news/article/2023-08-07/balancing-fire-and-ice), 2022. Cle Elum, WA.
+[Cle Elum Ridge Snow/Forest Observations](https://www.ce.washington.edu/news/article/2023-08-07/balancing-fire-and-ice), 2022. Cle Elum, WA.
 
 [SnowEx 2020, Intensive Observation Period](https://spestana.github.io/2020/02/snowex-2020/), 2020. Grand Mesa, CO.
 
