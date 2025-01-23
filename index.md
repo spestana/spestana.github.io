@@ -4,15 +4,16 @@ layout: default
 
 ## About Me
 
-I'm Steven Pestana (he/him), currently a researcher and instructor at the University of Washington, Seattle. 
+I'm Steven Pestana (he/him), an interdisciplinary Earth scientist with a background in hydrology, remote sensing, and data science. My research has focused on understanding water in the environment, especially in regions dependent on snow-dominated mountain watersheds. I’m particularly interested in improving our understanding of hydrologic processes, their interconnections with a changing climate, human impacts, and how we can adapt to those changes. This work has involved remote sensing of forests, snow, and rivers (with drones/UAS, aircraft, and satellites), geospatial analysis of high resolution digital elevation models, and leveraging machine learning methods. I currently work as a [physical scientist in the Watersheds and Fluvial Systems Section](https://www.usgs.gov/staff-profiles/steven-pestana) at the [USGS Washington Water Science Center](https://www.usgs.gov/centers/washington-water-science-center).
 
-My research is focused on remote sensing and hydrology of snow-dominated mountain watersheds. This involves developing new methods for analyzing infrared and optical remote sensing observations, with applications for mountain hydrology, forests, and seasonal snow. I am interested in how the unique perspectives provided by remote sensing (whether from small UAS, aircraft, or satellites) can improve our understanding of hydrology and ecology, how they’re changing with the climate, and how we can adapt to those changes. Read more details about my work with infrared remote sensing of seasonal snow with NOAA’s Geostationary Operational Environmental Satellites (GOES) [here](https://depts.washington.edu/mtnhydr/Pages/Research%20Profiles/SnowIR.html).
+Previously, I was a research scientist and instructor at the University of Washington (UW), Seattle. While working at UW, I had the opportunity to mentor undergraduate and graduate students, and to teach the Data Analysis in Water Science course in [2020]( https://spestana.github.io/2021/01/data-analysis-class-2020/) and 2023. As part of Professor Jessica Lundquist’s [Mountain Hydrology Research Group]( https://depts.washington.edu/mtnhydr/Pages/People%20Profiles/StevenPestana.html) at UW, I earned a PhD and MS in Civil and Environmental Engineering with a Data Science emphasis in 2023 and 2019 respectively. I earned a BS in Geology from California State Polytechnic University Pomona in 2015.
 
-I am also interested in science communications and teaching, whether in the classroom or outdoors, and the development of open source software and hardware. While at UW, I’ve enjoyed the opportunities to teach the [Data Analysis in Water Science](https://spestana.github.io/2021/01/data-analysis-class-2020/) course, as well as participate in and lead tutorials for eScience Institute "hackweeks". These experiences have sparked an interest in critically examining and improving my own teaching and learning methods.
+I’m also interested in science communication and teaching, whether in the classroom or outdoors, and the development of open source software and hardware. In addition to teaching traditional university courses in the classroom, I have organized and taught at several short course, workshop, and hackathon events such as those through the UW eScience Institute’s Hackweek program. I enjoy volunteering with local parks and environmental organizations to help lead environmental restoration work and educational programs such as guided canoe tours. All of these experiences have sparked an interest in critically examining and improving my own teaching and learning methods.
 
 See the below links for information about past and current projects, activities, and blog posts:
 
 <p class="view">- <a href="https://spestana.github.io/sensor-bands/">Satellite Sensor Bands in the Visible to Infrared</a></p>
+<p class="view">- <a href="https://depts.washington.edu/mtnhydr/Pages/Research%20Profiles/SnowIR.html">Infrared remote sensing of seasonal snow with NOAA’s Geostationary Operational Environmental Satellites (GOES)</a></p>
 <p class="view">- <a href="https://spestana.github.io/ecostress-utils/">Notes on predicting ECOSTRESS overpass timing</a></p>
 <p class="view">- <a href="https://www.ribbitnetwork.org/">Ribbit Network - open-source, low-cost CO2 sensors</a> (<a href="https://www.hackster.io/stevenpest/seattleribbitnetwork-e550e2">read more here</a>)</p>
 <p class="view">- <a href="https://spestana.github.io/atmos-boundary-layer/">Learning turbpy: sensible heat flux over snow</a></p>
@@ -21,3 +22,8 @@ See the below links for information about past and current projects, activities,
 <p class="view">- <a href="https://spestana.github.io/richards-valley-trail/">Richards Valley Trail</a></p>
 <p class="view">- <a href="https://spestana.github.io/urban-heat-hack/">EarthHacks: remote sensing urban heat islands</a></p>
 <p class="view">- <a href="https://gist.github.com/spestana/f631b033f0b5f591edbf5313be82db7e">Steps for setting up a geospatial computing workstation on a Windows PC.</a></p>
+<p class="view">- <a href="https://anthropoceneacolyte.wordpress.com/">Acolyte of the Anthropocene (my old blog)</a></p>
+
+
+
+

@@ -2,15 +2,13 @@
 layout: page
 ---
 
-**Curriculum Vitae** (*updated 10/2023*)
+**Curriculum Vitae** (*updated 1/2025*)
 
 ## Steven Pestana
 
 Pronouns: he/him/his
 
-Research Scientist and Instructor. Department of Civil and Environmental Engineering. University of Washington, Seattle
-
-[spestana@uw.edu](mailto:spestana@uw.edu); [spestana.github.io](https://spestana.github.io/)
+[spestana.com](https://spestana.com/)
 
 
 ## Education
@@ -21,15 +19,12 @@ Research Scientist and Instructor. Department of Civil and Environmental Enginee
 
 **BS 2015**, Geology. California Polytechnic University, Pomona. *Pomona, CA*
 
-## Awards & Honors
-
-- 2021 College of Engineering [Student Award for Teaching](https://spestana.github.io/2021/01/data-analysis-class-2020/), University of Washington, Seattle
-- 2020 NASA FINESST grant #80NSSC20K1610
-- 2015 Ernest Prete Jr. Geological Sciences Award, California Polytechnic University, Pomona
 
 ## Research and Professional Experience
 
-Research Scientist. University of Washington. Seattle, WA. 2023-present
+Physical Scientist. USGS Washington Water Science Center. Tacoma, WA. 2024-present
+
+Research Scientist. University of Washington. Seattle, WA. 2023-2024
 
 Graduate Research Assistant. University of Washington. Seattle, WA. 2017-2023
 
@@ -86,9 +81,9 @@ CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2018. Department of Ci
 
 ## Publications
 
-**Pestana, S.**, Chickadel, C. C., Lundquist, J. D. (*in review*). Thermal infrared shadow-hiding in GOES-R ABI imagery: snow and forest temperature observations from the SnowEx 2020 Grand Mesa field campaign. *in review* at The Cryosphere. Preprint doi:[10.5194/egusphere-2023-1784](https://doi.org/10.5194/egusphere-2023-1784)
+**Pestana, S.**, Chickadel, C. C., Lundquist, J. D. (2024). Thermal infrared shadow-hiding in GOES-R ABI imagery: snow and forest temperature observations from the SnowEx 2020 Grand Mesa field campaign. The Cryosphere, 18(5), 2257-2276. doi:[10.5194/tc-18-2257-2024](https://doi.org/10.5194/tc-18-2257-2024)
 
-**Pestana, S.**, Bair, E. H., Dozier, J., Lundquist, J. D. (2023). Observations of diurnal midwave infrared anisotropy over snow and forests with GOES-R ABI. 2023 IEEE International Geoscience and Remote Sensing Symposium (IGARSS). (conference paper)
+**Pestana, S.**, Bair, E. H., Dozier, J., Lundquist, J. D. (2023). Observations of diurnal midwave infrared anisotropy over snow and forests with GOES-R ABI. 2023. In IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium (pp. 5-8). IEEE. [https://ieeexplore.ieee.org/abstract/document/10282266/](https://ieeexplore.ieee.org/abstract/document/10282266/)
 
 **Pestana, S.** & Lundquist, J. D. (2022). Evaluating GOES-16 ABI surface brightness temperature observation biases over the central Sierra Nevada of California. Remote Sensing of Environment, 281, 113221. doi:[10.1016/j.rse.2022.113221](https://doi.org/10.1016/j.rse.2022.113221)
 
@@ -96,6 +91,8 @@ CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2018. Department of Ci
 
 ## Presentations
 \+ Invited talk, * Oral presentation
+
+**Pestana, S.**, Arendt, A.A., Boudreau, E., Burgess, A., Denolle, M., Haley, C., Henderson, S.T., Kaczmarczyk, L., Sun, Z. and Cristea, N.C. (presenting author). 2024. "Insights from Applying a Novel Collaborative Project Design Model for GeoSMART Hackweeks." American Geophysical Union, Fall Meeting. Washington, D.C.
 
 \* **Pestana, S.**, Bair, E. H., Dozier, J., Lundquist, J. D. 2023. “Observations of diurnal midwave infrared anisotropy over snow and forests with GOES-R ABI”. IEEE International Geoscience and Remote Sensing Symposium (IGARSS). Pasadena, CA.
 
@@ -117,10 +114,16 @@ Zajicek, B., , Villalobos, M., **Pestana, S.** (presenting author) 2016.  "Groun
 
 Naturalist volunteer with the *[Parks Department of Bellevue, WA](https://bellevuewa.gov/city-government/departments/parks/nature-and-environment/visitor-centers-environmental-programs/environmental-stewardship-volunteer-opportunities/master-naturalist)*: Assisting with environmental restoration work, invasive plant removal, educational programs, hikes, and canoe tours. 2022-present
 
-Core team member *[Ribbit Network](https://www.ribbitnetwork.org/)*: Building an open-source greenhouse gas sensor network for citizen scientists, educators, and researchers ([ribbitnetwork.org](https://www.ribbitnetwork.org/)). 2021-present
-
 Naturalist volunteer with the annual *[Seattle Aquarium: Cedar River Salmon Journey Program](https://www.seattleaquarium.org/salmon-journey)*: Communicating to the public the science of salmon migration, riparian and coastal ecosystems, and watershed hydrology. 2016-present
 
 Graduate Student Advisory Board member. *[UW Department of Civil and Environmental Engineering](https://www.ce.washington.edu/current/student-advisory-board#GSAB)*: Represented graduate student interests in faculty meetings, helped organize department events, and served on the department's Undergraduate Education Committee. 2022-2023
 
+*[Ribbit Network](https://www.ribbitnetwork.org/)*: Building an open-source greenhouse gas sensor network for citizen scientists, educators, and researchers ([ribbitnetwork.org](https://www.ribbitnetwork.org/)). 2021-present
+
 Group coordinator for *University of Washington: Engineering Discovery Days*: Planned and managed interactive snow science demonstrations for visiting middle school students. 2018
+
+## Awards & Honors
+
+- 2021 College of Engineering [Student Award for Teaching](https://spestana.github.io/2021/01/data-analysis-class-2020/), University of Washington, Seattle
+- 2020 NASA FINESST grant #80NSSC20K1610
+- 2015 Ernest Prete Jr. Geological Sciences Award, California Polytechnic University, Pomona
