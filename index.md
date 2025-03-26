@@ -22,6 +22,7 @@ See the below links for information about past and current projects, activities,
 
 ### Education, Art, and More:
 <p class="view">- <a href="https://www.instagram.com/walking.because/">Walking Because</a></p>
+<p class="view">- <a href="https://spestana.com/richards-valley-trail/creek.html">Creek Map</a></p>
 <p class="view">- <a href="https://www.ribbitnetwork.org/">Ribbit Network - open-source, low-cost CO2 sensors</a> (<a href="https://www.hackster.io/stevenpest/seattleribbitnetwork-e550e2">read more here</a>)</p>
 <p class="view">- <a href="https://spestana.github.io/toy-forest-model/">Toy forest model</a></p>
 <p class="view">- <a href="https://spestana.github.io/richards-valley-trail/">Richards Valley Trail</a></p>
