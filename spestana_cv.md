@@ -2,7 +2,7 @@
 layout: page
 ---
 
-**Curriculum Vitae** (*updated 1/2025*)
+**Curriculum Vitae** (*updated 1/2026*)
 
 ## Steven Pestana
 
@@ -22,20 +22,15 @@ Pronouns: he/him/his
 
 ## Research and Professional Experience
 
-Physical Scientist. USGS Washington Water Science Center. Tacoma, WA. 2024-present
+Hydrologic Scientist. TealWaters. Seattle, WA. 2025-present
+
+Physical Scientist. USGS Washington Water Science Center. Tacoma, WA. 2024-2025
 
 Research Scientist. University of Washington. Seattle, WA. 2023-2024
 
 Graduate Research Assistant. University of Washington. Seattle, WA. 2017-2023
 
 Technical Operations Assistant. Tableau Software. Seattle, WA. 2016-2017
-
-*Internships:* 
-- DEVELOP Earth Science Intern. NASA JPL. Pasadena, CA. Summer 2016
-- GIS Data Analyst Intern. NASA JPL. Pasadena, CA.  Fall 2015
-- Planetary Data System Intern. NASA. Remote. 2013-2015
-- Engineer Intern. SpaceX. Hawthorne, CA. 2012-2013
-- Engineer Intern. United States Air Force. Edwards AFB, CA. Summers 2009-2011, 2013
 
 ## Teaching Experience
 
@@ -83,6 +78,14 @@ CEE 465 / CEWA 565: Data Analysis for Water Science. Fall 2018. Department of Ci
 
 ## Publications
 
+**Pestana, S.**, Chelgren, N., Heaston, E., Jaeger, K., Labriola, L., Sando, R., Wurster, P. (2025, in prep.) FLOwPERlink: Aligning streamflow permanence field observations to model hydrographies with extensions to the hydrolink Python package. In preparation for submission to the Journal of Open Source Software.
+
+Boudreau, E., Cristea, N., Pflug, J., Yang, K., **Pestana, S.**, Lundquist, J.D. (2025, in review) Mapping snow cover at fine resolution in complex and forested terrain. In review at Remote Sensing of Environment
+
+Lumbrazo, C., **Pestana, S.**, Cramblitt, J., Dedinsky, K., Smith, K., Howe, E., Dickerson-Lange, S., Lundquist, J.D. (2025, in review.) Can we maximize snow storage through fire-resilient forest treatments?: Insights from experimental forest treatments in the Eastern Cascades, WA, USA. [Frontiers in Forests and Global Change, 8, 1707812](https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2025.1707812/full).
+
+Chiu, I., **Pestana, S.**, Yang, K., Boudreau, E., Setiawan, D., Pflug, J., Cristea, N. (2025, in prep.) PlanetSCA: a Python package implementing snow-covered area mapping from PlanetScope imagery with machine learning. In preparation for submission to the Journal of Open Source Software.
+
 **Pestana, S.**, Chickadel, C. C., Lundquist, J. D. (2024). Thermal infrared shadow-hiding in GOES-R ABI imagery: snow and forest temperature observations from the SnowEx 2020 Grand Mesa field campaign. The Cryosphere, 18(5), 2257-2276. doi:[10.5194/tc-18-2257-2024](https://doi.org/10.5194/tc-18-2257-2024)
 
 **Pestana, S.**, Bair, E. H., Dozier, J., Lundquist, J. D. (2023). Observations of diurnal midwave infrared anisotropy over snow and forests with GOES-R ABI. 2023. In IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium (pp. 5-8). IEEE. [https://ieeexplore.ieee.org/abstract/document/10282266/](https://ieeexplore.ieee.org/abstract/document/10282266/)
@@ -120,12 +123,10 @@ Naturalist volunteer with the annual *[Seattle Aquarium: Cedar River Salmon Jour
 
 Graduate Student Advisory Board member. *[UW Department of Civil and Environmental Engineering](https://www.ce.washington.edu/current/student-advisory-board#GSAB)*: Represented graduate student interests in faculty meetings, helped organize department events, and served on the department's Undergraduate Education Committee. 2022-2023
 
-*[Ribbit Network](https://www.ribbitnetwork.org/)*: Building an open-source greenhouse gas sensor network for citizen scientists, educators, and researchers ([ribbitnetwork.org](https://www.ribbitnetwork.org/)). 2021-present
+*[Ribbit Network](https://www.ribbitnetwork.org/)*: Building an open-source greenhouse gas sensor network for citizen scientists, educators, and researchers ([ribbitnetwork.org](https://www.ribbitnetwork.org/)). 2021
 
-Group coordinator for *University of Washington: Engineering Discovery Days*: Planned and managed interactive snow science demonstrations for visiting middle school students. 2018
 
 ## Awards & Honors
 
 - 2021 College of Engineering [Student Award for Teaching](https://spestana.github.io/2021/01/data-analysis-class-2020/), University of Washington, Seattle
 - 2020 NASA FINESST grant #80NSSC20K1610
-- 2015 Ernest Prete Jr. Geological Sciences Award, California Polytechnic University, Pomona
